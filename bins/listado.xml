@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<products>
+<product>
+<id>7891037744257</id>
+<description>Pasta dental CloseUp</description>
+<price>5.500000</price>
+</product>
+<product>
+<id>7790990157091</id>
+<description>Jabon Federal</description>
+<price>3.800000</price>
+</product>
+<product>
+<id>7793640047612</id>
+<description>Redoxon 2g Limon</description>
+<price>8.800000</price>
+</product>
+<product>
+<id>070330512306</id>
+<description>Corrector Liquido Bic</description>
+<price>10.000000</price>
+</product>
+<product>
+<id>7794851001066</id>
+<description>Pasticola 90g</description>
+<price>4.300000</price>
+</product>
+<product>
+<id>041333001043</id>
+<description>Bateria Duracell 9V</description>
+<price>13.400000</price>
+</product>
+<product>
+<id>7791909414458</id>
+<description>Vitamina Polper B12</description>
+<price>25.799999</price>
+</product>
+<product>
+<id>2000649000889</id>
+<description>Lechuga Criolla x KG</description>
+<price>0.880000</price>
+</product>
+<product>
+<id>5050467312227</id>
+<description>Agnetha Fältskog - My Colouring Book</description>
+<price>40.000000</price>
+</product>
+<product>
+<id>1111111111111</id>
+<description>Ñoquis riquísimos</description>
+<price>40.911999</price>
+</product>
+</products>
