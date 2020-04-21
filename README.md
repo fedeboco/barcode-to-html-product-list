@@ -1,2 +1,2 @@
 # market-list-csv-to-html
-Takes a CSV shopping list as an argument and outputs an user friendly formatted web page.
+Reads a csv listing scanned barcodes, compares them with the system database and outputs a formatted product list with detailed info.
